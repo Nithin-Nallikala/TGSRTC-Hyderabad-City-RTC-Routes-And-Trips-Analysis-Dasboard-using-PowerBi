@@ -1,4 +1,4 @@
-**Tools Used:**MySQL, Excel, Power BI, Power Query, DAX, Data Transformation, Dashboard.**
+**Tools Used**:**MySQL, Excel, Power BI, Power Query, DAX, Data Transformation, Dashboard.**
 1.Built an interactive Transportation Analytics Dashboard using MySQL, Excel, and Power BI to analyze Hyderabad city bus operations and service performance.
 2.Processed and analyzed nearly 1 million transit records covering routes, trips, stops, schedules, and service calendars.
 3.Designed a relational data model and connected multiple GTFS datasets to create a single source of truth for reporting and analysis.
