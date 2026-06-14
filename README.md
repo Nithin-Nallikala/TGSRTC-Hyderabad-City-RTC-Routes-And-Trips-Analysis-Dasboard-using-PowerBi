@@ -1,5 +1,8 @@
 # TSRTC Hyderabad City RTC Routes and Trips Analysis Dashboard
 
+## Description
+Developed a Power BI Transportation Analytics Dashboard using SQL, Excel, Power Query, and DAX to analyze Hyderabad city bus operations. Built interactive KPI reports and visualizations to identify travel patterns, route performance, and service coverage trends.
+
 ## Tools Used
 MySQL, Excel, Power BI, Power Query, DAX, Data Transformation, Dashboard Development
 
