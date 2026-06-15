@@ -1,3 +1,26 @@
+## Tools & Technologies
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-00B050?style=for-the-badge)
+
+
+## Analytics & Business Skills
+
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge)
+![Data Transformation](https://img.shields.io/badge/Data_Transformation-009688?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF9800?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-E91E63?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-673AB7?style=for-the-badge)
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-2196F3?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-795548?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-607D8B?style=for-the-badge)
+![Reporting Automation](https://img.shields.io/badge/Reporting_Automation-3F51B5?style=for-the-badge)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-9C27B0?style=for-the-badge)
+
+
 # TSRTC Hyderabad City RTC Routes and Trips Analysis Dashboard
 
 ## Description
